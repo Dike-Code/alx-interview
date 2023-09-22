@@ -22,4 +22,3 @@ def makeChange(coins, total):
 
     check = cpy_total > 0 and n_coins > 0
     return -1 if check or n_coins == 0 else n_coins
-
